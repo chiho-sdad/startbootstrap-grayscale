@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #00ff9d;
+  border: 1px solid #00ff9d;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -72,15 +72,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #00ff9d;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: #00b36e;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #00ff9d;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #00ff9d;
   }
 }
 
@@ -90,7 +90,7 @@
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/JCIT_HKPU_IB_08.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -146,20 +146,20 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #00ff9d;
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #00cc7e;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #00cc7e;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #00b36e !important;
 }
 
 .about-section {
@@ -182,7 +182,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #00ff9d;
   }
 }
 
@@ -196,7 +196,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #00ff9d;
     border-width: .25rem;
     width: 30%;
   }
@@ -228,7 +228,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #00ff9d;
 }
 
 .contact-section .card h4 {
@@ -239,7 +239,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #00ff9d;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -272,12 +272,12 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #00ff9d;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #3c6360;
+  color: #00995e;
 }
 
 .bg-black {
@@ -285,11 +285,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #00ff9d !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #00ff9d !important;
 }
 
 footer {
